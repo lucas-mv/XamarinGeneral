@@ -1,8 +1,8 @@
 public class NavigationRoutines
 {
-	//Navigation routine for when the app is in a MasterDetailPage context
-	public async Task NavigateMasterDetail(Page page)
-	{
+    //Navigation routine for when the app is in a MasterDetailPage context
+    public async Task NavigateMasterDetail(Page page)
+    {
         if (page == null)
             {
                 return;
