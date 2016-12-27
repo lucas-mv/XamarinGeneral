@@ -1,3 +1,5 @@
+//DependencyService for getting image byte[] from internal path
+
 //For Android
 public byte[] ByteArrayFromStream(string path)
 {
